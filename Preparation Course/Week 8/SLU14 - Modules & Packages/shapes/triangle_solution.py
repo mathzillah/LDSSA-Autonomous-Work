@@ -16,4 +16,3 @@ def is_equilateral(a, b, c):
         return False
 
 description = "this is a module named triangle"
-
